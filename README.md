@@ -49,7 +49,7 @@ I would like to add some functionality with JavaScript in the future, as well as
 
 ### Useful resources
 
-- [Example resource 1](https://www.stackoverflow.com) - This resource definitely helped me out a lot with figuring out flexbox. This website is an industry standard when it comes to help within the dev community.
+- [Stackoverflow](https://www.stackoverflow.com) - This resource definitely helped me out a lot with figuring out flexbox. This website is an industry standard when it comes to help within the dev community.
 
 ## Author
 
