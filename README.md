@@ -31,7 +31,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-9Cw7S9PyhE](https://www.frontendmentor.io/solutions/qr-code-component-9Cw7S9PyhE)
-- Live Site URL: [https://www.frontendmentor.io/solutions/qr-code-component-9Cw7S9PyhE](https://warrenflewellen.github.io/qrcode/)
+- Live Site URL: [https://warrenflewellen.github.io/qrcode/](https://warrenflewellen.github.io/qrcode/)
 
 ## My process
 
